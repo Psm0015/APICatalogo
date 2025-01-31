@@ -15,8 +15,8 @@
       "dotnetRunMessages": true,
       "launchBrowser": true,
       //"launchUrl": "openapi/v1.json",
-      //"launchUrl": "swagger",
-      "launchUrl": "scalar/v1",
+      "launchUrl": "swagger",
+      //"launchUrl": "scalar/v1",
       "applicationUrl": "https://localhost:7157;http://localhost:5002",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
